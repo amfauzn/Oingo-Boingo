@@ -1,6 +1,6 @@
-Created by amfauzn based on Oingo and Boingo (Zenyatta and Mondatta) characters from Jojo's Bizzare Adventure.
+Created by amfauzn (https://github.com/amfauzn) based on Oingo and Boingo (Zenyatta and Mondatta) characters from Jojo's Bizzare Adventure.
 
-The following are from [the Noun Project](https://thenounproject.com) licenced under either Creative Commons or Public Domain
+The following are from [the Noun Project] (https://thenounproject.com) licenced under either Creative Commons or Public Domain
 * [oingo] modified from (https://thenounproject.com/term/bo-leaf/1955800/) by Eucalyp
 * [boingo] modified from (https://thenounproject.com/term/bo-leaf/1955800/) by Eucalyp
 * [foresight] (https://thenounproject.com/term/foresight/3293552/) by Atif Arshad
