@@ -1,0 +1,104 @@
+
+game.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Blessing in Disguise
+  rotate: false
+  xy: 4, 112
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Foresight
+  rotate: false
+  xy: 847, 767
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Mimicking
+  rotate: false
+  xy: 212, 112
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/National Prophecy
+  rotate: false
+  xy: 847, 559
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Silicon Valley
+  rotate: false
+  xy: 112, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Sun-Chemical
+  rotate: false
+  xy: 1055, 767
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Sun-Edison
+  rotate: false
+  xy: 420, 112
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Talents Audition
+  rotate: false
+  xy: 847, 351
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Thoth's Book
+  rotate: false
+  xy: 4, 320
+  size: 835, 647
+  orig: 835, 647
+  offset: 0, 0
+  index: -1
+NationIcons/Boingo
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Oingo
+  rotate: false
+  xy: 1263, 867
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcon/Ink
+  rotate: false
+  xy: 1055, 659
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Ink-Slinger
+  rotate: false
+  xy: 1055, 659
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcon/Silicon
+  rotate: false
+  xy: 628, 212
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
