@@ -1,0 +1,109 @@
+[
+	{
+    	"name": "Mimicking",
+		"uniqueTo": "Oingo",
+		"cost": 120,
+		"isNationalWonder": true,
+		"happiness": 1,
+		"culture": 2,
+		"greatPersonPoints": {"Great Artist": 3},
+		"uniques": ["Destroyed when the city is captured","[+10%] Strength <for [All] units> <when at war> <in [Enemy Land] tiles>","Consumes [1] [Silicon]","Unsellable"],
+		"requiredTech": "Drama and Poetry"
+	},
+	{
+		"name": "Talents Audition",
+		"replaces": "Barracks",
+		"uniqueTo": "Oingo",
+		"cost": 70,
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"culture": 1,
+		"uniques": ["Destroyed when the city is captured","New [Military] units start with [15] Experience [in this city]"],
+		"requiredTech": "Bronze Working"
+	},
+	{
+		"name": "Blessing in Disguise",
+		"uniqueTo": "Oingo",
+        "replaces": "Hermitage",
+        "cost": 125,
+        "culture": 5,
+		"science": 3,
+        "isNationalWonder": true,
+		"percentStatBonus": {"culture": 50},
+        "uniques": ["Cost increases by [30] per owned city","Requires a [Opera House] in all cities","Free Social Policy"],
+        "requiredTech": "Acoustics"
+	},
+	{
+		"name": "Sun-Edison",
+		"uniqueTo": "Oingo",
+		"replaces": "Factory",
+        "production": 4,
+        "specialistSlots": {"Engineer": 2},
+        "maintenance": 3,
+		"cost": 360,
+        "hurryCostModifier": 0,
+        "uniques": ["+[10]% [Production] [in this city]","Requires a [Workshop] [in this city]","Provides [1] [Silicon]","Consumes [1] [Coal]"],
+        "requiredTech": "Industrialization"
+	},
+	{
+		"name": "Thoth's Book",
+		"uniqueTo": "Boingo",
+		"cost": 60,
+		"isNationalWonder": true,
+		"happiness": 1,
+		"science": 3,
+		"greatPersonPoints": {"Great Scientist": 3},
+		"uniques": ["Destroyed when the city is captured","[+10%] Strength <for [All] units> <when at war> <in [Enemy Land] tiles>","Consumes [1] [Ink]","Unsellable"],
+		"requiredTech": "Writing"
+	},
+	{
+		"name": "Foresight",
+		"replaces": "Barracks",
+		"uniqueTo": "Boingo",
+		"cost": 70,
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"science": 1,
+		"uniques": ["Destroyed when the city is captured","New [Military] units start with [15] Experience [in this city]"],
+		"requiredTech": "Bronze Working"
+	},
+	{
+		"name": "National Prophecy",
+		"replaces": "National College",
+		"uniqueTo": "Boingo",
+		"cost": 125,
+		"science": 3,
+		"culture": 2,
+		"gold": 1,
+		"isNationalWonder": true,
+		"percentStatBonus": {"science": 50},
+		"uniques": ["Requires a [Library] in all cities", "Cost increases by [30] per owned city","Free Technologies"],
+		"requiredTech": "Philosophy"
+	},
+	{
+		"name": "Sun-Chemical",
+		"uniqueTo": "Boingo",
+		"replaces": "Factory",
+        "production": 4,
+        "specialistSlots": {"Engineer": 2},
+        "maintenance": 3,
+		"cost": 360,
+        "hurryCostModifier": 0,
+        "uniques": ["+[10]% [Production] [in this city]","Requires a [Workshop] [in this city]","Provides [1] [Ink]","Consumes [1] [Coal]"],
+        "requiredTech": "Industrialization"
+	},
+	{
+		"name": "Ink-Slinger", // Oingo luxury
+        "uniqueTo": "Oingo",
+        "isNationalWonder": true, 
+        "cost": 1,
+        "uniques": ["Will not be displayed in Civilopedia","Provides [2] [Ink]"],  
+	},
+    {
+		"name": "Silicon Valley", // Boingo luxury
+        "uniqueTo": "Boingo",
+        "isNationalWonder": true, 
+        "cost": 1,
+        "uniques": ["Will not be displayed in Civilopedia","Provides [2] [Silicon]"],  
+	}
+]

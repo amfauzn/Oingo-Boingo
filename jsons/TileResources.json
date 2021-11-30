@@ -1,0 +1,14 @@
+[	
+	{
+		"name": "Ink",
+		"resourceType": "Strategic",
+		"production": 1,
+		"gold": 1,
+	},
+	{
+		"name": "Silicon",
+		"resourceType": "Strategic",
+		"production": 1,
+		"gold": 1,
+	}
+]

@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Oingo",
+		"leaderName": "Oi",
+		"adjective": ["Oingo"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "Long life Brother Oingo, a plan executor of the Mighty Oingo-Boingo Brothers.",
+		"startIntroPart2": "O' poor Oingo, times come to you once more to ruin The Stardust Crusaders plans! Will you make Oing-Boingo Brothers can stand the test of time?",
+		
+		"declaringWar": "Time to host a show! And you are a perfect tragedy!",
+		"attacked": "Do you really know who I am, Fool?",
+		"defeated": "I surrender.",
+		"introduction": "Hello. I am Oingo, my card is the God of creation Khnum!",
+		
+		"neutralHello": "Hello.",
+		"hateHello": "What, punk?",
+		"afterPeace": "Well, no word from lil bro anyway.",
+		"tradeRequest": "Your goods seems good, why don't we help each other?",
+
+		"outerColor": [100,75,30],
+		"innerColor": [0,0,0],
+		"uniqueName": "Shapeshifting",
+		"uniqueText": "Decrease combat strength in enemy land, Increase combat strength in friendly land, Free social policy from Hermitage.",
+		"uniques": ["[-15]% Strength <for [All] units> <when at war> <in [Enemy Land] tiles>","[+10]% Strength <for [All] units> <when at war> <in [Friendly Land] tiles>","[+10%]% defensive strength for cities"]
+		"cities": ["Capitel","Oinga","Oingbo","Tongce","Oingdu","Elling","Oingfa","Togang","Ohoho","Isonga","Jango-ingo"]
+	},
+	{
+		"name": "Boingo",
+		"leaderName": "Oi",
+		"adjective": "Boingo",
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "Long life Brother Boingo, a plan maker of the Mighty Oingo-Boingo Brothers. A shy yet pshycotic junky.",
+		"startIntroPart2": "O' poor Boingo, times come to you once more to ruin The Stardust Crusaders plans! Will you make Oing-Boingo Brothers can stand the test of time?",
+		
+		"declaringWar": "Toth just saw your future destruction!",
+		"attacked": "HAH! I can predict your downfall!",
+		"defeated": "I surrender.",
+		"introduction": "Hello. I am Boingo, my card is the God of knowledge Thoth!",
+		
+		"neutralHello": "Hello.",
+		"hateHello": "What, punk?",
+		"afterPeace": "Well, no propechy yet anyway.",
+		"tradeRequest": "Your goods seems good, why don't we help each other?",
+
+		"outerColor": [0,200,200],
+		"innerColor": [255,0,0],
+		"uniqueName": "Future Prediction",
+		"uniqueText": "Decrease combat strength in enemy land, Increase combat strength in friendly land, Free technology from National College.",
+		"uniques": ["[-15]% Strength <for [All] units> <when at war> <in [Enemy Land] tiles>","[+15]% Strength <for [All] units> <when at war> <in [Friendly Land] tiles>","[+10%]% defensive strength for cities"]
+		"cities": ["Capitela","Boinga","Bobibo","Boce","Bongdu","Being","Boingfo","Gobang","Buhahaha","Ibaba","Jambul"]
+	}
+]
