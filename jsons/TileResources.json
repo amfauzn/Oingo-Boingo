@@ -1,13 +1,13 @@
 [	
 	{
 		"name": "Ink",
-		"resourceType": "Strategic",
+		"resourceType": "Luxury",
 		"production": 1,
 		"gold": 1,
 	},
 	{
 		"name": "Silicon",
-		"resourceType": "Strategic",
+		"resourceType": "Luxury",
 		"production": 1,
 		"gold": 1,
 	}
