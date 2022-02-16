@@ -1,0 +1,86 @@
+[	
+	// Gold-to-Science
+	{
+		"name": "First Science",
+		"uniqueTo": "The Prowess",
+		"science": 5,
+		"maintenance": 5,
+		"cost": 10,
+		"uniques": ["Requires [Industrial era]", "Cannot be built with [First Culture]", "Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Second Science",
+		"uniqueTo": "The Prowess",
+		"science": 5,
+		"maintenance": 5,
+		"cost": 10,
+		"requiredBuilding": "First Science",
+		"uniques": ["Requires [Modern era]", "Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Third Science",
+		"uniqueTo": "The Prowess",
+		"science": 5,
+		"maintenance": 5,
+		"cost": 10,
+		"requiredBuilding": "Second Science",
+		"uniques": ["Requires [Atomic era]", "Will not be displayed in Civilopedia"]
+	},
+	
+	// Gold-to-Culture
+	{
+		"name": "First Culture",
+		"uniqueTo": "The Prowess",
+		"culture": 3,
+		"maintenance": 5,
+		"cost": 10,
+		"uniques": ["Requires [Industrial era]", "Cannot be built with [First Science]", "Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Second Culture",
+		"uniqueTo": "The Prowess",
+		"culture": 3,
+		"maintenance": 5,
+		"cost": 10,
+		"requiredBuilding": "First Culture",
+		"uniques": ["Requires [Modern era]", "Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Third Culture",
+		"uniqueTo": "The Prowess",
+		"culture": 3,
+		"maintenance": 5,
+		"cost": 10,
+		"requiredBuilding": "Second Culture",
+		"uniques": ["Requires [Atomic era]", "Will not be displayed in Civilopedia"]
+	},
+	
+	// Gold-to-Faith
+	{
+		"name": "Buy Faith",
+		"uniqueTo": "The Prowess",
+		"faith": 5,
+		"maintenance": 5,
+		"cost": 10,
+		"uniques": ["Requires [Industrial era]", "Will not be displayed in Civilopedia", "Hidden when religion is disabled"]
+	},
+	
+	// Wonders
+	{
+		"name": "Aknamuki",
+		"greatPersonPoints": {"Great Engineer": 1},
+		"isWonder": true,
+		"uniques": ["Must have an owned [Marsh] within [3] tiles", "[+2 Food, +3 Science, +3 Production] from [Marsh] tiles [in this city]", 
+					"[+2 Gold] from [Truffles] tiles [in this city]"],
+		"requiredTech": "Calendar",
+		"quote": "'I rose from marsh mud, algae, equisetum, willows, sweet green, noisy birds and frogs' ― Lorine Niedecker"
+	},
+	{
+		"name": "Ker'sai",
+		"greatPersonPoints": {"Great Merchant": 1},
+		"isWonder": true,
+		"uniques": ["Must be next to [Lakes]", "[+1 Gold, +1 Production] from [Lakes] tiles [in this city]"],
+		"requiredTech": "Civil Service",
+		"quote": "'They say that the bottom of the lake is covered with gold. I'd say this view is worth more than the gold.' ― Mihai Simion"
+	}
+]

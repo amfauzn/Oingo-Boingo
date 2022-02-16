@@ -1,0 +1,24 @@
+[	
+	{
+		"name": "Maize",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Plains", "Grassland"],
+		"food": 1,
+		"improvement": "Farm",
+		"improvementStats": {"food": 0}
+	},
+	{
+		"name": "Perfume",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Plains","Grassland"],
+		"gold": 1,
+		"improvement": "Plantation",
+		"improvementStats": {"gold": 1, "culture": 2}
+	},
+	{
+		"name": "Honey",
+		"resourceType": "Luxury",
+		"gold": 2,
+		"uniques": ["Can only be created by Mercantile City-States"]
+	}
+]

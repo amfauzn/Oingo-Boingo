@@ -1,0 +1,18 @@
+[
+	{
+		"name": "Divine Hero",
+		"unitType": "Sword",
+		"uniqueTo": "The Prowess",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 16,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"uniques": ["Can build [Land] improvements on tiles", "Prevents spreading of religion to the city it is next to"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	}
+]
