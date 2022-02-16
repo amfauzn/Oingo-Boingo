@@ -6,7 +6,7 @@
 		"science": 5,
 		"maintenance": 5,
 		"cost": 10,
-		"uniques": ["Requires [Industrial era]", "Cannot be built with [First Culture]", "Will not be displayed in Civilopedia"]
+		"uniques": ["Requires [Industrial era]", "Only available <in cities without a [First Culture]>", "Will not be displayed in Civilopedia"]
 	},
 	{
 		"name": "Second Science",
@@ -14,8 +14,7 @@
 		"science": 5,
 		"maintenance": 5,
 		"cost": 10,
-		"requiredBuilding": "First Science",
-		"uniques": ["Requires [Modern era]", "Will not be displayed in Civilopedia"]
+		"uniques": ["Requires [Modern era]", "Only available <in cities with a [First Science]>", "Will not be displayed in Civilopedia"]
 	},
 	{
 		"name": "Third Science",
@@ -23,8 +22,7 @@
 		"science": 5,
 		"maintenance": 5,
 		"cost": 10,
-		"requiredBuilding": "Second Science",
-		"uniques": ["Requires [Atomic era]", "Will not be displayed in Civilopedia"]
+		"uniques": ["Requires [Atomic era]", "Only available <in cities with a [Second Science]>", "Will not be displayed in Civilopedia"]
 	},
 	
 	// Gold-to-Culture
@@ -34,7 +32,7 @@
 		"culture": 3,
 		"maintenance": 5,
 		"cost": 10,
-		"uniques": ["Requires [Industrial era]", "Cannot be built with [First Science]", "Will not be displayed in Civilopedia"]
+		"uniques": ["Requires [Industrial era]", "Only available <in cities without a [First Science]>", "Will not be displayed in Civilopedia"]
 	},
 	{
 		"name": "Second Culture",
@@ -42,8 +40,7 @@
 		"culture": 3,
 		"maintenance": 5,
 		"cost": 10,
-		"requiredBuilding": "First Culture",
-		"uniques": ["Requires [Modern era]", "Will not be displayed in Civilopedia"]
+		"uniques": ["Requires [Modern era]", "Only available <in cities with a [First Culture]>", "Will not be displayed in Civilopedia"]
 	},
 	{
 		"name": "Third Culture",
@@ -51,8 +48,7 @@
 		"culture": 3,
 		"maintenance": 5,
 		"cost": 10,
-		"requiredBuilding": "Second Culture",
-		"uniques": ["Requires [Atomic era]", "Will not be displayed in Civilopedia"]
+		"uniques": ["Requires [Atomic era]", "Only available <in cities without a [Second Culture]>", "Will not be displayed in Civilopedia"]
 	},
 	
 	// Gold-to-Faith
