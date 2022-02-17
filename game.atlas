@@ -32,6 +32,13 @@ BuildingIcons/First Science
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Production Boost
+  rotate: false
+  xy: 112, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Second Culture
   rotate: false
   xy: 112, 4
@@ -69,7 +76,7 @@ BuildingIcons/Ker'sai
   index: -1
 NationIcons/The Prowess
   rotate: false
-  xy: 760, 4
+  xy: 544, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -81,37 +88,9 @@ ResourceIcons/Honey
   orig: 100, 100
   offset: 0, 0
   index: -1
-ResourceIcons/Maize
-  rotate: false
-  xy: 544, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Perfume
-  rotate: false
-  xy: 652, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Maize
-  rotate: false
-  xy: 868, 38
-  size: 32, 30
-  orig: 32, 30
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Perfume
-  rotate: false
-  xy: 908, 76
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
 TileSets/FantasyHex/Units/Divine Hero
   rotate: false
-  xy: 868, 76
+  xy: 652, 76
   size: 32, 28
   orig: 32, 28
   offset: 0, 0

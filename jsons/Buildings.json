@@ -1,4 +1,24 @@
 [	
+	// Gold-to-Production
+	{
+		"name": "Production Boost",
+		"uniqueTo": "The Prowess",
+		"production": 5,
+		"maintenance": 5,
+		"cost": 10,
+		"uniques": ["Requires [Medieval era]", "Will not be displayed in Civilopedia"]
+	},
+	
+	// Gold-to-Faith
+	{
+		"name": "Buy Faith",
+		"uniqueTo": "The Prowess",
+		"faith": 5,
+		"maintenance": 5,
+		"cost": 10,
+		"uniques": ["Requires [Medieval era]", "Will not be displayed in Civilopedia", "Hidden when religion is disabled"]
+	},
+	
 	// Gold-to-Science
 	{
 		"name": "First Science",
@@ -49,16 +69,6 @@
 		"maintenance": 5,
 		"cost": 10,
 		"uniques": ["Requires [Atomic era]", "Only available <in cities without a [Second Culture]>", "Will not be displayed in Civilopedia"]
-	},
-	
-	// Gold-to-Faith
-	{
-		"name": "Buy Faith",
-		"uniqueTo": "The Prowess",
-		"faith": 5,
-		"maintenance": 5,
-		"cost": 10,
-		"uniques": ["Requires [Industrial era]", "Will not be displayed in Civilopedia", "Hidden when religion is disabled"]
 	},
 	
 	// Wonders
