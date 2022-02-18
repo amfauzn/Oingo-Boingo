@@ -21,8 +21,8 @@
 		"outerColor": [215,225,225],
 		"innerColor": [9, 112, 84],
 		"uniqueName": "Ingenuity of Trading",
-		"uniqueText": "Earn 33% of the damage done to All units as Gold\nStarting from the Medieval era, Can convert gold to Production and Faith when Religion is enabled\nStarting from the Industrial era, Can convert gold to Science or Culture",
-		"uniques": ["Earn [33]% of the damage done to [All] units as [Gold]"],
+		"uniqueText": "Earn 33% of the damage done to non-air units as Gold\nEarn 100% of killed Barbarian unit's Cost as Gold\nStarting from the Medieval era, Can convert gold to Production and Faith when Religion is enabled\nStarting from the Industrial era, Can convert gold to Science or Culture",
+		"uniques": ["Earn [33]% of the damage done to [non-air] units as [Gold]", "Earn [100]% of killed [Barbarian] unit's [Cost] as [Gold]"],
 		"cities": ["Polysia","Sim","Hune","Indoa","Nuguria","Pileni","Nukumanu","Khon Kaen","Surin","Suva","South Tarawa",
 			"Karachi","Doha","Majuro","Palikir","Yaren","Palau","Port Moresby"]
 	}
