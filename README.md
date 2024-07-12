@@ -1,4 +1,4 @@
-# The Prowess
+# Oingo-Boingo
 2 civilizations that will become stronger while in cooperation, based on Oingo and Boingo (Zenyatta and Mondatta) characters from Jojo's Bizzare Adventure
 
 # Credits
