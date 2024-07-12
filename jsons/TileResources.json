@@ -1,5 +1,19 @@
 [	
 	{
+		"name": "Comic Book",
+		"resourceType": "Luxury",
+		"gold": 2,
+		"uniques": ["Comment [Provides 2 [Happiness] instead of 4]",
+					"Excluded from map editor"]
+	},
+	{
+		"name": "Plastic Skin",
+		"resourceType": "Luxury",
+		"gold": 2,
+		"uniques": ["Comment [Provides 2 [Happiness] instead of 4]",
+					"Excluded from map editor"]
+	},
+	{
 		"name": "Honey",
 		"resourceType": "Luxury",
 		"gold": 2,

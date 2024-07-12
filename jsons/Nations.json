@@ -1,29 +1,72 @@
 [
 	{
-		"name": "The Prowess",
-		"leaderName": "Powering Power",
-		"startBias": ["Fresh water"],
-		"adjective": ["Prowess"],
+		"name": "The Brother Oingo",
+		"leaderName": "Oingo",
+		"adjective": ["Oingo"],
+		"startBias": ["Plains"],
 
-		"startIntroPart1": " ",
-		"startIntroPart2": "Will you accept the challenge? Will you build a civilization that will stand the test of time?",
+		"startIntroPart1": "Long life Brother Oingo, a plan executor of the soon-to-be famous Oingo-Boingo Brothers.",
+		"startIntroPart2": "O' fearless Oingo, times come to you once more to ruin The Stardust Crusaders plans! Will you make Oing-Boingo Brothers the best assassin duo? Can you build a brotherhood that will stand the test of time?",
 
-		"declaringWar": "It is a shame that we must resort to violence, it is not the custom of kings to kill kings.",
-		"attacked": "I warn you against making a habit of shedding blood. Blood never sleeps.",
-		"defeated": "This is not victory. 'Victory' is changing the hearts of your opponents; through gentleness, through kindness.",
-		"introduction": "By the grace of the God, the powerful, the victorious, the everlasting of whose Kingdom there is no end, I greet you, my sincere friend.",
+		"declaringWar": "Time to host a show! And you are a perfect tragedy!",
+		"attacked": "Do you really know who I am, fool?",
+		"defeated": "I surrender.",
+		"introduction": "Hello. I am Oingo, my card is the God of creation Khnum!",
 
-		"neutralHello": "Greetings.",
-		"hateHello": "What do YOU want?!",
-
-		"tradeRequest": "Would you accep it, please?",
+		"neutralHello": "Hello.",
+		"hateHello": "What, punk?",
+		"afterPeace": "Well, no word from lil bro anyway.",
+		"tradeRequest": "Your goods seems good, why don't we help each other?",
 
 		"outerColor": [215,225,225],
-		"innerColor": [9, 112, 84],
-		"uniqueName": "Ingenuity of Trading",
-		"uniqueText": "Earn 33% of the damage done to non-air units as Gold\nEarn 100% of killed Barbarian unit's Cost as Gold\nStarting from the Medieval era, Can convert gold to Production and Faith when Religion is enabled\nStarting from the Industrial era, Can convert gold to Science or Culture",
-		"uniques": ["Earn [33]% of the damage done to [non-air] units as [Gold]", "Earn [100]% of killed [Barbarian] unit's [Cost] as [Gold]"],
-		"cities": ["Polysia","Sim","Hune","Indoa","Nuguria","Pileni","Nukumanu","Khon Kaen","Surin","Suva","South Tarawa",
-			"Karachi","Doha","Majuro","Palikir","Yaren","Palau","Port Moresby"]
+		"innerColor": [  9,112, 84],
+		"uniqueName": "Shapeshifting",
+		"uniques": ["[-10]% Strength <for [Land] units> <when fighting in [Enemy Land] tiles>",
+					"[+10]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>",
+					"Free Social Policy <upon constructing [Heroic Epic]>",
+					"Provides [2] [Comic Book] <hidden from users>",
+					"Comment [ ]",
+					"Comment [with [Plastic Skin]:]",
+					"[+10]% Strength <for [All] units> <with [Plastic Skin]> <hidden from users>",
+					"Comment [+10% Strength for ALL units]",
+					"[+10]% [Production] [in all cities] <with [Plastic Skin]> <hidden from users>",
+					"Comment [+10% [Production] in all cities]"],
+		"cities": ["Polysia","Sim","Hune","Indoa","Nuguria","Pileni","Nukumanu","Khon Kaen","Surin","Suva",
+			"South Tarawa","Karachi","Doha","Majuro","Palikir","Yaren","Palau","Port Moresby"]
+	},
+	{
+		"name": "The Brother Boingo",
+		"leaderName": "Boingo",
+		"adjective": ["Boinga"],
+		"startBias": ["Plains"],
+
+		"startIntroPart1": "Long life Brother Boingo, a plan maker of the soon-to-be famous Oingo-Boingo Brothers. A shy yet pshycotic junky.",
+		"startIntroPart2": "O' cunning Boingo, times come to you once more to ruin The Stardust Crusaders plans! Will you make Oing-Boingo Brothers the best assassin duo? Can you build a brotherhood that will stand the test of time?",
+
+		"declaringWar": "Toth just saw your future destruction!",
+		"attacked": "HAH! I can predict your downfall!",
+		"defeated": "I surrender.",
+		"introduction": "Hello. I am Boingo, my card is the God of knowledge Thoth!",
+
+		"neutralHello": "Hello.",
+		"hateHello": "What, punk?",
+		"afterPeace": "Well, no propechy yet anyway.",
+		"tradeRequest": "Your goods seems good, why don't we help each other?",
+
+		"outerColor": [  9,112, 84],
+		"innerColor": [215,225,225],
+		"uniqueName": "Future Prediction",
+		"uniques": ["[-10]% Strength <for [Land] units> <when fighting in [Enemy Land] tiles>",
+					"[+10]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>",
+					"Free Technology <upon constructing [National College]>",
+					"Provides [2] [Plastic Skin] <hidden from users>",
+					"Comment [ ]",
+					"Comment [with [Comic Book]:]",
+					"[+10]% Strength <for [All] units> <with [Comic Book]> <hidden from users>",
+					"Comment [+10% Strength for ALL units]",
+					"[+10]% [Science] [in all cities] <with [Comic Book]> <hidden from users>",
+					"Comment [+10% [Science] in all cities]"],
+		"cities": ["Capitel","Boinga","Bobibo","Boce","Bongdu","Being","Boingfo","Gobang","Buhahaha","Ibaba","Jambul"
+			"Karachi","Doha","Majuro","Palikir","Yaren"]
 	}
 ]

@@ -1,74 +1,24 @@
 [	
-	// Gold-to-Production
 	{
-		"name": "Production Boost",
-		"uniqueTo": "The Prowess",
-		"production": 5,
-		"maintenance": 5,
-		"cost": 10,
-		"uniques": ["Requires [Medieval era]", "Will not be displayed in Civilopedia"]
-	},
-	
-	// Gold-to-Faith
-	{
-		"name": "Buy Faith",
-		"uniqueTo": "The Prowess",
-		"faith": 5,
-		"maintenance": 5,
-		"cost": 10,
-		"uniques": ["Requires [Medieval era]", "Will not be displayed in Civilopedia", "Hidden when religion is disabled"]
-	},
-	
-	// Gold-to-Science
-	{
-		"name": "First Science",
-		"uniqueTo": "The Prowess",
-		"science": 5,
-		"maintenance": 5,
-		"cost": 10,
-		"uniques": ["Requires [Industrial era]", "Only available <in cities without a [First Culture]>", "Will not be displayed in Civilopedia"]
+		"name": "Blessing in Disguise Arena",
+		"replaces": "Barracks",
+		"uniqueTo": "The Brother Oingo",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["New [Military] units start with [15] Experience [in this city]",
+					"[+15]% Production when constructing [Land] units [in this city]",
+					"Destroyed when the city is captured"],
+		"requiredTech": "Bronze Working"
 	},
 	{
-		"name": "Second Science",
-		"uniqueTo": "The Prowess",
-		"science": 5,
-		"maintenance": 5,
-		"cost": 10,
-		"uniques": ["Requires [Modern era]", "Only available <in cities with a [First Science]>", "Will not be displayed in Civilopedia"]
-	},
-	{
-		"name": "Third Science",
-		"uniqueTo": "The Prowess",
-		"science": 5,
-		"maintenance": 5,
-		"cost": 10,
-		"uniques": ["Requires [Atomic era]", "Only available <in cities with a [Second Science]>", "Will not be displayed in Civilopedia"]
-	},
-	
-	// Gold-to-Culture
-	{
-		"name": "First Culture",
-		"uniqueTo": "The Prowess",
-		"culture": 3,
-		"maintenance": 5,
-		"cost": 10,
-		"uniques": ["Requires [Industrial era]", "Only available <in cities without a [First Science]>", "Will not be displayed in Civilopedia"]
-	},
-	{
-		"name": "Second Culture",
-		"uniqueTo": "The Prowess",
-		"culture": 3,
-		"maintenance": 5,
-		"cost": 10,
-		"uniques": ["Requires [Modern era]", "Only available <in cities with a [First Culture]>", "Will not be displayed in Civilopedia"]
-	},
-	{
-		"name": "Third Culture",
-		"uniqueTo": "The Prowess",
-		"culture": 3,
-		"maintenance": 5,
-		"cost": 10,
-		"uniques": ["Requires [Atomic era]", "Only available <in cities without a [Second Culture]>", "Will not be displayed in Civilopedia"]
+		"name": "Foresighting Discourse Chamber",
+		"replaces": "Library",
+		"uniqueTo": "The Brother Boingo",
+		"science": 2,
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["[+1 Science] per [2] population [in this city]"],
+		"requiredTech": "Writing"
 	},
 	
 	// Wonders
@@ -80,13 +30,5 @@
 					"[+2 Gold] from [Truffles] tiles [in this city]"],
 		"requiredTech": "Calendar",
 		"quote": "'I rose from marsh mud, algae, equisetum, willows, sweet green, noisy birds and frogs' ― Lorine Niedecker"
-	},
-	{
-		"name": "Ker'sai",
-		"greatPersonPoints": {"Great Merchant": 1},
-		"isWonder": true,
-		"uniques": ["Must be next to [Lakes]", "[+1 Gold, +1 Production] from [Lakes] tiles [in this city]"],
-		"requiredTech": "Civil Service",
-		"quote": "'They say that the bottom of the lake is covered with gold. I'd say this view is worth more than the gold.' ― Mihai Simion"
 	}
 ]
